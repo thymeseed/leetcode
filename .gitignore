@@ -1,0 +1,12 @@
+#ignore Bulls and Cows/Debug/
+Bulls and Cows/Debug/
+
+#ignore files endwith .opensdf or .sdf or .sln
+Bulls and Cows/*.*
+
+#ignore directory .vs
+Bulls and Cows/.vs/
+
+Bulls and Cows/Bulls and Cows/Debug/
+
+Bulls and Cows/Bulls and Cows/Bulls*
